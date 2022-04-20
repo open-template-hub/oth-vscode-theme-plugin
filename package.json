@@ -1,0 +1,26 @@
+{
+    "name": "oth-theme",
+    "displayName": "oth-theme",
+    "description": "OTH themes for VSCode. Dark and light themes using Open Template Hub's color palette.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OTH Theme Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/oth-dark-color-theme.json"
+            },
+            {
+                "label": "OTH Theme Light",
+                "uiTheme": "vs",
+                "path": "./themes/oth-light-color-theme.json"
+            }
+        ]
+    }
+}
