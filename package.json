@@ -2,7 +2,7 @@
     "name": "oth-theme",
     "displayName": "OTH Theme",
     "description": "OTH themes for VSCode. Dark and light themes using Open Template Hub's color palette.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "scripts": {
         "package": "vsce package"
     },
