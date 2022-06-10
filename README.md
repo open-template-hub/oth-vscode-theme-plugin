@@ -23,6 +23,10 @@ After installing the theme, go to File | Preferences | Color Theme and select on
 
 <!-- Plugin description end -->
 
+# Demo
+
+[Click here](https://marketplace.visualstudio.com/items?itemName=OpenTemplateHub.oth-theme) to access the live OTH Theme extension.
+
 # Sponsors
 
 No sponsors yet! **Will you be the first?**
@@ -60,4 +64,3 @@ Refer to **[CODE_OF_CONDUCT.md](https://github.com/open-template-hub/.github/blo
 ## LICENSE
 
 The source code for this project is released under the [MIT License](LICENSE).
-
