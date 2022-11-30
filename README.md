@@ -8,13 +8,15 @@
 Open Template Hub - VSCode Platform Theme v1
 </h1>
 
+[![Version](https://img.shields.io/visual-studio-marketplace/v/OpenTemplateHub.oth-theme?style=for-the-badge&logo=visual%20studio)](https://marketplace.visualstudio.com/items?itemName=OpenTemplateHub.oth-theme)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/i/OpenTemplateHub.oth-theme?label=Downloads&logo=visual%20studio&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=OpenTemplateHub.oth-theme)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/OpenTemplateHub.oth-theme?label=Rating&logo=visual%20studio&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=OpenTemplateHub.oth-theme)
 [![License](https://img.shields.io/github/license/open-template-hub/oth-vscode-theme-plugin?color=43b043&style=for-the-badge)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/open-template-hub/oth-vscode-theme-plugin?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-vscode-theme-plugin/issues)
 [![PRCLosed](https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/oth-vscode-theme-plugin?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-vscode-theme-plugin/pulls?q=is%3Apr+is%3Aclosed)
 [![LastCommit](https://img.shields.io/github/last-commit/open-template-hub/oth-vscode-theme-plugin?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-vscode-theme-plugin/commits/main)
 [![Release](https://img.shields.io/github/release/open-template-hub/oth-vscode-theme-plugin?include_prereleases&color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-vscode-theme-plugin/releases)
 [![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-hub_oth-vscode-theme-plugin?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-hub_oth-vscode-theme-plugin)
-
 
 <!-- Plugin description -->
 OTH themes for VSCode. Dark and light themes using Open Template Hub's color palette.
